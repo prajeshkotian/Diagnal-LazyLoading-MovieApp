@@ -1,0 +1,1 @@
+{"version":3,"sources":["Post.css"],"names":[],"mappings":"AAAA,MACG,cAAc,CACd,gBAAiB,CACjB,iBAAiB,CACjB,kBAAmB,CACnB,SACH,CAEA,YACI,oBACJ","file":"3.a130e0f4.chunk.css","sourcesContent":[".Post{\r\n   flex-basis:28%;\r\n   margin-left: 30px;\r\n   margin-right:30px;\r\n   margin-bottom: 90px;\r\n   z-index:0;\r\n}\r\n\r\n.Post:hover{\r\n    transform:scale(1.1);\r\n}"]}
