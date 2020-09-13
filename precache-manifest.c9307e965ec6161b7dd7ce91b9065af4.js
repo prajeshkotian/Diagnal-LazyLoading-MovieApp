@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7a5788e9e692c5622375ee8029aeafd0",
+    "revision": "7d75ecf8bace700e8a74d5f95c163e8b",
     "url": "/Diagnal-LazyLoading-MovieApp/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Diagnal-LazyLoading-MovieApp/static/css/3.2fe1f5e6.chunk.css"
   },
   {
-    "revision": "e9f8617d8de95fbb0a2f",
+    "revision": "0c4d48fde6178bb5a413",
     "url": "/Diagnal-LazyLoading-MovieApp/static/css/main.d03f47cc.chunk.css"
   },
   {
@@ -24,8 +24,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Diagnal-LazyLoading-MovieApp/static/js/3.312e2ad2.chunk.js"
   },
   {
-    "revision": "e9f8617d8de95fbb0a2f",
-    "url": "/Diagnal-LazyLoading-MovieApp/static/js/main.08455765.chunk.js"
+    "revision": "0c4d48fde6178bb5a413",
+    "url": "/Diagnal-LazyLoading-MovieApp/static/js/main.06d2d6c7.chunk.js"
   },
   {
     "revision": "25fecb6876c1516e87a8",

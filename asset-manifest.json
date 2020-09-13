@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Diagnal-LazyLoading-MovieApp/static/css/main.d03f47cc.chunk.css",
-    "main.js": "/Diagnal-LazyLoading-MovieApp/static/js/main.08455765.chunk.js",
-    "main.js.map": "/Diagnal-LazyLoading-MovieApp/static/js/main.08455765.chunk.js.map",
+    "main.js": "/Diagnal-LazyLoading-MovieApp/static/js/main.06d2d6c7.chunk.js",
+    "main.js.map": "/Diagnal-LazyLoading-MovieApp/static/js/main.06d2d6c7.chunk.js.map",
     "runtime-main.js": "/Diagnal-LazyLoading-MovieApp/static/js/runtime-main.17a3cb91.js",
     "runtime-main.js.map": "/Diagnal-LazyLoading-MovieApp/static/js/runtime-main.17a3cb91.js.map",
     "static/js/2.dc11e226.chunk.js": "/Diagnal-LazyLoading-MovieApp/static/js/2.dc11e226.chunk.js",
@@ -11,7 +11,7 @@
     "static/js/3.312e2ad2.chunk.js": "/Diagnal-LazyLoading-MovieApp/static/js/3.312e2ad2.chunk.js",
     "static/js/3.312e2ad2.chunk.js.map": "/Diagnal-LazyLoading-MovieApp/static/js/3.312e2ad2.chunk.js.map",
     "index.html": "/Diagnal-LazyLoading-MovieApp/index.html",
-    "precache-manifest.02126e50a81157afaa23e067bd496547.js": "/Diagnal-LazyLoading-MovieApp/precache-manifest.02126e50a81157afaa23e067bd496547.js",
+    "precache-manifest.c9307e965ec6161b7dd7ce91b9065af4.js": "/Diagnal-LazyLoading-MovieApp/precache-manifest.c9307e965ec6161b7dd7ce91b9065af4.js",
     "service-worker.js": "/Diagnal-LazyLoading-MovieApp/service-worker.js",
     "static/css/3.2fe1f5e6.chunk.css.map": "/Diagnal-LazyLoading-MovieApp/static/css/3.2fe1f5e6.chunk.css.map",
     "static/css/main.d03f47cc.chunk.css.map": "/Diagnal-LazyLoading-MovieApp/static/css/main.d03f47cc.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.17a3cb91.js",
     "static/js/2.dc11e226.chunk.js",
     "static/css/main.d03f47cc.chunk.css",
-    "static/js/main.08455765.chunk.js"
+    "static/js/main.06d2d6c7.chunk.js"
   ]
 }
