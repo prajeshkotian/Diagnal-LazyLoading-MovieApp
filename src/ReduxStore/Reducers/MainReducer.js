@@ -9,6 +9,7 @@ const initialState = {
     searchString: '',
     searchedData: [],
     searching: false
+    
 };
 
 function MainReducer(state=initialState,action) {
@@ -77,13 +78,14 @@ function MainReducer(state=initialState,action) {
                         return null;
                 })
                 console.log(searcheddata);
-
+                
                 return {
                     ...state,
                     searching: true,
-                    searchedData: searcheddata
-                }
-
+                    searchedData: searcheddata,
+                    
+                    }
+               
             }
 
             //set the searching state back to false when backbutton is pressed 

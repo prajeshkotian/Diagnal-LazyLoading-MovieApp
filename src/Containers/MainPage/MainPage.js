@@ -35,7 +35,7 @@ class MainPage extends Component {
 
     //method to load posts to listing page either searched data or data retrievedfrom API call 
     loadPosts = (array) => {
-       // if (array.length > 0) {
+        //if (array.length > 0) {
 
             const posts = array.map(ele => {
                 //post_tracker variable to get unique id for each post
@@ -52,7 +52,7 @@ class MainPage extends Component {
                 );
             })
             return posts;
-       // }
+        
 
         ////check if no data is present
         //else {
@@ -71,7 +71,7 @@ class MainPage extends Component {
                 
                 <div className="MainPage">
                     
-                    {posts}
+                    {posts.length>0 ? posts:<p>No Data!!</p>}
                     <LoaderSpinner />
                 </div>
             </div>
@@ -85,7 +85,8 @@ const mapStateToProps = (state) => {
         Posts: state.Posts,
         searching: state.searching,
         searchedData: state.searchedData,
-        loading: state.loading
+        loading: state.loading,
+        
     };
 }
 

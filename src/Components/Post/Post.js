@@ -6,7 +6,7 @@ function Post(props) {
     
     return (
         <div className="Post">
-            <img src={"/Assets/Posters/" + props.img} alt='not found' />
+            <img  src={"./Assets/Posters/" + props.img} alt='not found' />
             <h5>{props.title}</h5>
         </div>
         );

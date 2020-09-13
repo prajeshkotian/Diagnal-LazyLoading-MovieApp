@@ -6,6 +6,7 @@ import { connect } from 'react-redux';
 
 
 
+
 class TopNavBar extends Component {
 
 
@@ -27,12 +28,12 @@ class TopNavBar extends Component {
 
     render() {
         return (
-            <div className="TopNavBar">
+            <div className="TopNavBar" >
 
-                <img src={"/Assets/NavBar/Back.png"} className="Nav_back_img" alt="Nav_back_img" onClick={this.onBackClick} />
+                <img src={"./Assets/NavBar/Back.png"} className="Nav_back_img" alt="Nav_back_img" onClick={this.onBackClick} />
                 <h3 className="Nav_item1">{this.props.title}</h3>
                 <input className="Nav_search" placeholder="Search" onChange={this.onSearchChangeHandler} />
-                <img src={"/Assets/NavBar/search.png"} className="Nav_item" onClick={this.onSearchClick} alt="search" />
+                <img src={"./Assets/NavBar/search.png"} className="Nav_item" onClick={this.onSearchClick} alt="search" />
 
             </div>
         );
