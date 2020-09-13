@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/Diagnal-LazyLoading-MovieApp/static/css/main.f69d75d3.chunk.css",
-    "main.js": "/Diagnal-LazyLoading-MovieApp/static/js/main.1ddb7f95.chunk.js",
-    "main.js.map": "/Diagnal-LazyLoading-MovieApp/static/js/main.1ddb7f95.chunk.js.map",
+    "main.js": "/Diagnal-LazyLoading-MovieApp/static/js/main.66236c36.chunk.js",
+    "main.js.map": "/Diagnal-LazyLoading-MovieApp/static/js/main.66236c36.chunk.js.map",
     "runtime-main.js": "/Diagnal-LazyLoading-MovieApp/static/js/runtime-main.10bfc817.js",
     "runtime-main.js.map": "/Diagnal-LazyLoading-MovieApp/static/js/runtime-main.10bfc817.js.map",
-    "static/js/2.a9fae054.chunk.js": "/Diagnal-LazyLoading-MovieApp/static/js/2.a9fae054.chunk.js",
-    "static/js/2.a9fae054.chunk.js.map": "/Diagnal-LazyLoading-MovieApp/static/js/2.a9fae054.chunk.js.map",
+    "static/js/2.dc11e226.chunk.js": "/Diagnal-LazyLoading-MovieApp/static/js/2.dc11e226.chunk.js",
+    "static/js/2.dc11e226.chunk.js.map": "/Diagnal-LazyLoading-MovieApp/static/js/2.dc11e226.chunk.js.map",
     "static/css/3.ee558ae2.chunk.css": "/Diagnal-LazyLoading-MovieApp/static/css/3.ee558ae2.chunk.css",
     "static/js/3.312e2ad2.chunk.js": "/Diagnal-LazyLoading-MovieApp/static/js/3.312e2ad2.chunk.js",
     "static/js/3.312e2ad2.chunk.js.map": "/Diagnal-LazyLoading-MovieApp/static/js/3.312e2ad2.chunk.js.map",
     "index.html": "/Diagnal-LazyLoading-MovieApp/index.html",
-    "precache-manifest.15d238e8125e59da24d0814ef512ddc7.js": "/Diagnal-LazyLoading-MovieApp/precache-manifest.15d238e8125e59da24d0814ef512ddc7.js",
+    "precache-manifest.1fedf0d6347eb73460a34d123975f635.js": "/Diagnal-LazyLoading-MovieApp/precache-manifest.1fedf0d6347eb73460a34d123975f635.js",
     "service-worker.js": "/Diagnal-LazyLoading-MovieApp/service-worker.js",
     "static/css/3.ee558ae2.chunk.css.map": "/Diagnal-LazyLoading-MovieApp/static/css/3.ee558ae2.chunk.css.map",
     "static/css/main.f69d75d3.chunk.css.map": "/Diagnal-LazyLoading-MovieApp/static/css/main.f69d75d3.chunk.css.map",
-    "static/js/2.a9fae054.chunk.js.LICENSE.txt": "/Diagnal-LazyLoading-MovieApp/static/js/2.a9fae054.chunk.js.LICENSE.txt"
+    "static/js/2.dc11e226.chunk.js.LICENSE.txt": "/Diagnal-LazyLoading-MovieApp/static/js/2.dc11e226.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.10bfc817.js",
-    "static/js/2.a9fae054.chunk.js",
+    "static/js/2.dc11e226.chunk.js",
     "static/css/main.f69d75d3.chunk.css",
-    "static/js/main.1ddb7f95.chunk.js"
+    "static/js/main.66236c36.chunk.js"
   ]
 }
