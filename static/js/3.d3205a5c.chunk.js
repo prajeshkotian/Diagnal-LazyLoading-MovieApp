@@ -1,2 +1,0 @@
-(this["webpackJsonpdiagnal-assignment-app"]=this["webpackJsonpdiagnal-assignment-app"]||[]).push([[3],{85:function(t,e,n){},86:function(t,e,n){"use strict";n.r(e);var a=n(0),s=n.n(a);n(85);e.default=function(t){return s.a.createElement("div",{className:"Post"},s.a.createElement("img",{src:"/Assets/Posters/"+t.img,alt:"not found"}),s.a.createElement("h5",null,t.title))}}}]);
-//# sourceMappingURL=3.d3205a5c.chunk.js.map
