@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Diagnal-LazyLoading-MovieApp/precache-manifest.63e3fde0341287b267de271f52dfc57e.js"
+  "/Diagnal-LazyLoading-MovieApp/precache-manifest.7a5e2abbe0538eff29ea7b4cf0a38f72.js"
 );
 
 self.addEventListener('message', (event) => {
