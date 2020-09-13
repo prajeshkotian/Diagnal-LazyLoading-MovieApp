@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\public",
+    "\\public\\Assets",
+    "\\public\\Assets\\NavBar",
+    "\\src",
+    "\\src\\Components",
+    "\\src\\Components\\Post",
+    "\\src\\Containers",
+    "\\src\\Navigation",
+    "\\src\\ReduxStore"
+  ],
+  "SelectedNode": "\\src\\Components\\Post\\Post.js",
+  "PreviewInSolutionExplorer": false
+}
